@@ -78,8 +78,3 @@ results = estimate_carbon_footprint(
 - numpy
 - matplotlib
 
-## Data
-Emissions data is stored in the `emissions/` directory:
-- `emissions.csv`: Contains detailed measurements from CodeCarbon
-- `llm_carbon_estimates.json`: Contains LLM training emission estimates
-
